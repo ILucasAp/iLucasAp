@@ -3,7 +3,7 @@
 <p>Olá! sou Lucas Pontes ✌ </p>
 
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/araujoponts/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:contatoapontes@hotmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:contatoapontes@hotmail.com?subject=Encontrei%20sua%20p%C3%A1gina%20no%20GitHub&body=Ol%C3%A1%20Lucas%2C%0D%0AEstou%20entrando%20em%20contato%20atrav%C3%A9s%20do%20e-mail%20dispon%C3%ADvel%20em%20sua%20p%C3%A1gina%20no%20GitHub.%0D%0AAssim%20que%20poss%C3%ADvel%2C%20pe%C3%A7o%20que%20responda%20meu%20contato.%0D%0AObrigado(a))
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iLucasAp&show_icons=true&theme=tokyonight)
 
