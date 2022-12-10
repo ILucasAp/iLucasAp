@@ -7,6 +7,7 @@ Sou desenvolvedor e apaixonado pelo Back-End, no momento estudando Games Dev e C
 <h2>Tecnologias</h2>
 
 Software Development em C# (.Net plataform)
+
 Front-end Development com HTML, CSS e Javascript
 
 <h3>Contact Me</h3>
